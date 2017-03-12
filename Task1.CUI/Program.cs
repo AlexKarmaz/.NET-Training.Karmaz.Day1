@@ -31,7 +31,7 @@ namespace Task1.CUI
             {
                 System.Console.Write(x + " ");
             }
-
+            Console.ReadKey();
         }
     }
 }
