@@ -1,0 +1,11 @@
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\bin\Debug\Task1.CUI.exe.config
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\bin\Debug\Task1.CUI.exe
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\bin\Debug\Task1.CUI.pdb
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\bin\Debug\Task1.dll
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\bin\Debug\Task1.pdb
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\obj\Debug\Task1.CUI.csprojResolveAssemblyReference.cache
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\obj\Debug\Task1.CUI.exe
+F:\wind\с#\EPAM\Homework\NET.S.2017.01.Karmaz.01\Task1.CUI\obj\Debug\Task1.CUI.pdb
+F:\wind\с#\EPAM\Homework\Day1\NET.S.2017.01.Karmaz.01\Task1.CUI\bin\Debug\Task1.CUI.exe.config
+F:\wind\с#\EPAM\Homework\Day1\NET.S.2017.01.Karmaz.01\Task1.CUI\obj\Debug\Task1.CUI.exe
+F:\wind\с#\EPAM\Homework\Day1\NET.S.2017.01.Karmaz.01\Task1.CUI\obj\Debug\Task1.CUI.pdb
