@@ -1,0 +1,1 @@
+# .NET-Training.Karmaz.Day1
