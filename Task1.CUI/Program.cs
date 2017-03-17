@@ -23,7 +23,7 @@ namespace Task1.CUI
             }
 
             /*Sorting*/
-            arr = MergeSort(arr);
+            MergeSort(arr);
 
             System.Console.WriteLine("");
             System.Console.WriteLine("Array after sorting:");
