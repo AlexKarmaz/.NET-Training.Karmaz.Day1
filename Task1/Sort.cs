@@ -20,6 +20,10 @@ namespace Task1
             {
                 throw new ArgumentNullException(nameof(arr));
             }
+            if (arr.Length == 0)
+            {
+                throw new Exception("array is empty");
+            }
 
             if (arr.Length == 1)
             {
